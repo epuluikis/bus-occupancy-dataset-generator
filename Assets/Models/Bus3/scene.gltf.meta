@@ -1,0 +1,417 @@
+fileFormatVersion: 2
+guid: 7245d0d7436b647339fd32046ff915b9
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fkn_adsv_alpha
+    second: {fileID: 2100000, guid: 1d5dd7fef895e47438b92ea8758bf637, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fkn_adsv_alpha__spec
+    second: {fileID: 2100000, guid: 5ea724558d22647a4b24dfc724f8d80a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fkn_alp_bc
+    second: {fileID: 2100000, guid: 2cf25c5dc6f2e4a218d0e25662c50e7f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fkn_apls
+    second: {fileID: 2100000, guid: 21e0bc97a3b6d4bedb1b08319a748666, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fkn_aro_volvo
+    second: {fileID: 2100000, guid: e3d3882835e544390ba1bdbab7bfa074, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fkn_bcs0
+    second: {fileID: 2100000, guid: 20f15cdbf753440c69c7f6aa94748a45, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fkn_bcs1
+    second: {fileID: 2100000, guid: faaffa068d33c49c58af576f3389ce79, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fkn_cadr
+    second: {fileID: 2100000, guid: 3e97a4b9aab4748298df154708eef044, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fkn_cadr_ad
+    second: {fileID: 2100000, guid: ddac46810510f4c1b9d5517a09a39e0e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fkn_couro_cl
+    second: {fileID: 2100000, guid: 2af2093694fcc4ecfbec05ddc3bac009, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fkn_couro_cl2
+    second: {fileID: 2100000, guid: 3b13603830d5a4a80b802497734691e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fkn_difuso
+    second: {fileID: 2100000, guid: 02ce67c5a240d458cb9391c3cee0a1f5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fkn_ferbor
+    second: {fileID: 2100000, guid: a12180b8f5c6f417d8d5c5356e30a2db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fkn_grade3a
+    second: {fileID: 2100000, guid: 2ab2ce1f994c748adb7f7d1e9730980e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fkn_granvi
+    second: {fileID: 2100000, guid: eed1db1827a2f46089dc0c388654f569, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fkn_granvi_vd
+    second: {fileID: 2100000, guid: 2e6ad83e36f544f3cab510208525bc93, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fkn_int1
+    second: {fileID: 2100000, guid: 111a4b9f0237244f99735722b8c94437, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fkn_int2
+    second: {fileID: 2100000, guid: e7ab29b42f9bc46da91d0e9622fe0d9f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fkn_internos1
+    second: {fileID: 2100000, guid: 6cb2ee10648ea47f499599843bfd4bad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fkn_internos1__spec
+    second: {fileID: 2100000, guid: c2e2e867d2059491aa7f549e4f97f7ec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fkn_ints
+    second: {fileID: 2100000, guid: fdb128211a86c43a5bd32be2f3080cf5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fkn_itinerario
+    second: {fileID: 2100000, guid: b7fb3cb5a49db4a8cbc520bba30722aa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fkn_itinerario_x2
+    second: {fileID: 2100000, guid: 478cb3938ffae4b05adf737c2340976f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fkn_marc
+    second: {fileID: 2100000, guid: d8532ae2dd6e040a290153b0add4b6f5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fkn_mult1
+    second: {fileID: 2100000, guid: 53f4949e61be94ab0b88e9ac9b2a4c1d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fkn_pn_good22
+    second: {fileID: 2100000, guid: 02a1ccdb7b1b9435f8f67e42e36ff61c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fkn_ps_mt
+    second: {fileID: 2100000, guid: 2a54901ecb2a142ab866d1c0b7526626, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fkn_reflex
+    second: {fileID: 2100000, guid: aec4b64397cba46609a8e191d25eee24, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fkn_tori_lp
+    second: {fileID: 2100000, guid: 5d342ac4f3ec34ac7a625ae371ecf83c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fkn_tori_lp2
+    second: {fileID: 2100000, guid: 86ab471f77c0f4eee8ed21e9816f0d18, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fkn_volvo
+    second: {fileID: 2100000, guid: ec2e16304642944cf830e73cb1b19932, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fkn_volvo__env_50_spec
+    second: {fileID: 2100000, guid: 1fd1e58905b0c475d85c9f56c437f843, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fkn_volvo_ch
+    second: {fileID: 2100000, guid: bd55a3fdd4c954b7f969747009e457f0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fkn_volvo_pn
+    second: {fileID: 2100000, guid: 52f69d6893cd543059d9a3957fe4828b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fkn_volvo_pn_2
+    second: {fileID: 2100000, guid: c9686e84769a5402bbf4802560fc8091, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fkn_volvo_pn_on2
+    second: {fileID: 2100000, guid: eb06559a6595440d9aebb2a208ff30ca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fkn_volvo_vl
+    second: {fileID: 2100000, guid: da744ca2d711146be9212f19f2c58f42, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: material
+    second: {fileID: 2100000, guid: dd90ee24ec3eb4a92813288134db9e50, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: preto
+    second: {fileID: 2100000, guid: 71d6a859b5b4f4ba2a6ccaf64ccc1504, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vdi__trans
+    second: {fileID: 2100000, guid: 8420fe8116325466292cf126a76d9953, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: fkn_itinerario_emissive
+    second: {fileID: 2800000, guid: 1759ed146c97043049691377d2d0d63a, type: 3}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 804e1ce4c496647cfa3f1a1134187c71, type: 3}
+  _removeEmptyRootObjects: 1
+  _scaleFactor: 1
+  _deduplicateResources: 0
+  _maximumLod: 300
+  _readWriteEnabled: 1
+  _generateColliders: 0
+  _addColliders: 0
+  _swapUvs: 0
+  _generateLightmapUVs: 0
+  _importBlendShapeNames: 1
+  _blendShapeFrameWeight:
+    _option: 0
+    _multiplier: 1
+  _importNormals: 0
+  _importTangents: 0
+  _importCamera: 0
+  _importAnimations: 2
+  _mecanimHumanoidFlip: 0
+  _addAnimatorComponent: 0
+  _animationLoopTime: 1
+  _animationLoopPose: 0
+  _importMaterials: 1
+  _enableGpuInstancing: 0
+  _texturesReadWriteEnabled: 1
+  _generateMipMaps: 1
+  _useSceneNameIdentifier: 1
+  _textureCompression: -50
+  _gltfAsset: '<b>Generator: </b>Sketchfab-16.59.0
+
+    <b>Version: </b>2.0
+
+
+    <b>Extras:
+    </b>
+
+'
+  optimizeGameObjects: 0
+  materials:
+  - {fileID: -6279267576533886576, guid: 7245d0d7436b647339fd32046ff915b9, type: 3}
+  - {fileID: 2106530981749479248, guid: 7245d0d7436b647339fd32046ff915b9, type: 3}
+  - {fileID: 6853927872483265104, guid: 7245d0d7436b647339fd32046ff915b9, type: 3}
+  - {fileID: 2298633047197826467, guid: 7245d0d7436b647339fd32046ff915b9, type: 3}
+  - {fileID: -7273319723254977497, guid: 7245d0d7436b647339fd32046ff915b9, type: 3}
+  - {fileID: 1066947249252937179, guid: 7245d0d7436b647339fd32046ff915b9, type: 3}
+  - {fileID: -2079954528655643911, guid: 7245d0d7436b647339fd32046ff915b9, type: 3}
+  - {fileID: 107362267326715605, guid: 7245d0d7436b647339fd32046ff915b9, type: 3}
+  - {fileID: 3353775642163452397, guid: 7245d0d7436b647339fd32046ff915b9, type: 3}
+  - {fileID: -5827340822226747249, guid: 7245d0d7436b647339fd32046ff915b9, type: 3}
+  - {fileID: 1395759732893924708, guid: 7245d0d7436b647339fd32046ff915b9, type: 3}
+  - {fileID: -5819389176231910046, guid: 7245d0d7436b647339fd32046ff915b9, type: 3}
+  - {fileID: 9200381550578711199, guid: 7245d0d7436b647339fd32046ff915b9, type: 3}
+  - {fileID: 3767248333574376045, guid: 7245d0d7436b647339fd32046ff915b9, type: 3}
+  - {fileID: -6018758400159171577, guid: 7245d0d7436b647339fd32046ff915b9, type: 3}
+  - {fileID: -2681725906881278868, guid: 7245d0d7436b647339fd32046ff915b9, type: 3}
+  - {fileID: -6899168472196589813, guid: 7245d0d7436b647339fd32046ff915b9, type: 3}
+  - {fileID: -7104078657225811601, guid: 7245d0d7436b647339fd32046ff915b9, type: 3}
+  - {fileID: 8721658941307671765, guid: 7245d0d7436b647339fd32046ff915b9, type: 3}
+  - {fileID: 8648933800533098655, guid: 7245d0d7436b647339fd32046ff915b9, type: 3}
+  - {fileID: -187644342309289989, guid: 7245d0d7436b647339fd32046ff915b9, type: 3}
+  - {fileID: -5301636536636236298, guid: 7245d0d7436b647339fd32046ff915b9, type: 3}
+  - {fileID: -8182047018706499289, guid: 7245d0d7436b647339fd32046ff915b9, type: 3}
+  - {fileID: 1008583927199350282, guid: 7245d0d7436b647339fd32046ff915b9, type: 3}
+  - {fileID: 7373541437357386391, guid: 7245d0d7436b647339fd32046ff915b9, type: 3}
+  - {fileID: 3703297383904967760, guid: 7245d0d7436b647339fd32046ff915b9, type: 3}
+  - {fileID: -7095844578404759450, guid: 7245d0d7436b647339fd32046ff915b9, type: 3}
+  - {fileID: -5560588632803501277, guid: 7245d0d7436b647339fd32046ff915b9, type: 3}
+  - {fileID: -2805687579130325241, guid: 7245d0d7436b647339fd32046ff915b9, type: 3}
+  - {fileID: 457529248265147765, guid: 7245d0d7436b647339fd32046ff915b9, type: 3}
+  - {fileID: -9182066775368048434, guid: 7245d0d7436b647339fd32046ff915b9, type: 3}
+  - {fileID: -4248571137364968151, guid: 7245d0d7436b647339fd32046ff915b9, type: 3}
+  - {fileID: 1642649853807455482, guid: 7245d0d7436b647339fd32046ff915b9, type: 3}
+  - {fileID: -5957151405657187709, guid: 7245d0d7436b647339fd32046ff915b9, type: 3}
+  - {fileID: -2545799229294082111, guid: 7245d0d7436b647339fd32046ff915b9, type: 3}
+  - {fileID: 3014568052168606776, guid: 7245d0d7436b647339fd32046ff915b9, type: 3}
+  - {fileID: 2153124428021791892, guid: 7245d0d7436b647339fd32046ff915b9, type: 3}
+  - {fileID: 1255026229889276927, guid: 7245d0d7436b647339fd32046ff915b9, type: 3}
+  - {fileID: 586645097001841572, guid: 7245d0d7436b647339fd32046ff915b9, type: 3}
+  - {fileID: 4432927061055405260, guid: 7245d0d7436b647339fd32046ff915b9, type: 3}
+  textures:
+  - {fileID: 2800000, guid: ee5881d5e414e4137bbcfc665ec6b058, type: 3}
+  hasSceneData: 1
+  hasAnimationData: 0
+  hasMaterialData: 1
+  hasTextureData: 1
+  animations: []
+  _extensions:
+  - name: KHR_materials_pbrSpecularGlossiness
+    supported: 1
+    used: 1
+    required: 1
+  - name: KHR_materials_emissive_strength
+    supported: 1
+    used: 1
+    required: 0
+  _textures:
+  - texture: {instanceID: 0}
+    shouldBeLinear: 0
+    shouldBeNormalMap: 0
+  - texture: {instanceID: 0}
+    shouldBeLinear: 0
+    shouldBeNormalMap: 0
+  - texture: {instanceID: 0}
+    shouldBeLinear: 0
+    shouldBeNormalMap: 0
+  - texture: {instanceID: 0}
+    shouldBeLinear: 0
+    shouldBeNormalMap: 0
+  - texture: {instanceID: 0}
+    shouldBeLinear: 0
+    shouldBeNormalMap: 0
+  - texture: {instanceID: 0}
+    shouldBeLinear: 0
+    shouldBeNormalMap: 0
+  - texture: {instanceID: 0}
+    shouldBeLinear: 0
+    shouldBeNormalMap: 0
+  - texture: {instanceID: 0}
+    shouldBeLinear: 0
+    shouldBeNormalMap: 0
+  - texture: {instanceID: 0}
+    shouldBeLinear: 0
+    shouldBeNormalMap: 0
+  - texture: {instanceID: 0}
+    shouldBeLinear: 0
+    shouldBeNormalMap: 0
+  - texture: {instanceID: 0}
+    shouldBeLinear: 0
+    shouldBeNormalMap: 0
+  - texture: {instanceID: 0}
+    shouldBeLinear: 0
+    shouldBeNormalMap: 0
+  - texture: {instanceID: 0}
+    shouldBeLinear: 0
+    shouldBeNormalMap: 0
+  - texture: {instanceID: 0}
+    shouldBeLinear: 0
+    shouldBeNormalMap: 0
+  - texture: {instanceID: 0}
+    shouldBeLinear: 0
+    shouldBeNormalMap: 0
+  - texture: {instanceID: 0}
+    shouldBeLinear: 0
+    shouldBeNormalMap: 0
+  - texture: {instanceID: 0}
+    shouldBeLinear: 0
+    shouldBeNormalMap: 0
+  - texture: {instanceID: 0}
+    shouldBeLinear: 0
+    shouldBeNormalMap: 0
+  - texture: {instanceID: 0}
+    shouldBeLinear: 0
+    shouldBeNormalMap: 0
+  - texture: {instanceID: 0}
+    shouldBeLinear: 0
+    shouldBeNormalMap: 0
+  - texture: {fileID: 2800000, guid: ee5881d5e414e4137bbcfc665ec6b058, type: 3}
+    shouldBeLinear: 0
+    shouldBeNormalMap: 0
+  - texture: {instanceID: 0}
+    shouldBeLinear: 0
+    shouldBeNormalMap: 0
+  - texture: {instanceID: 0}
+    shouldBeLinear: 0
+    shouldBeNormalMap: 0
+  - texture: {instanceID: 0}
+    shouldBeLinear: 0
+    shouldBeNormalMap: 0
+  - texture: {instanceID: 0}
+    shouldBeLinear: 0
+    shouldBeNormalMap: 0
+  - texture: {instanceID: 0}
+    shouldBeLinear: 0
+    shouldBeNormalMap: 0
+  - texture: {instanceID: 0}
+    shouldBeLinear: 0
+    shouldBeNormalMap: 0
+  - texture: {instanceID: 0}
+    shouldBeLinear: 0
+    shouldBeNormalMap: 0
+  - texture: {instanceID: 0}
+    shouldBeLinear: 0
+    shouldBeNormalMap: 0
+  - texture: {instanceID: 0}
+    shouldBeLinear: 0
+    shouldBeNormalMap: 0
+  - texture: {instanceID: 0}
+    shouldBeLinear: 0
+    shouldBeNormalMap: 0
+  - texture: {instanceID: 0}
+    shouldBeLinear: 0
+    shouldBeNormalMap: 0
+  - texture: {instanceID: 0}
+    shouldBeLinear: 0
+    shouldBeNormalMap: 0
+  - texture: {instanceID: 0}
+    shouldBeLinear: 0
+    shouldBeNormalMap: 0
+  - texture: {instanceID: 0}
+    shouldBeLinear: 0
+    shouldBeNormalMap: 0
+  _mainAssetIdentifier: scenes/Sketchfab_Scene
+  _importPlugins: []

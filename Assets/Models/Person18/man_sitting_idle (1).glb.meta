@@ -1,0 +1,112 @@
+fileFormatVersion: 2
+guid: b6f7289cb8b004e7ca24eb0cd4b985f0
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ch28_body
+    second: {fileID: 2100000, guid: 3241a82e5256d4183a0bd8e3438351e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ch28_hair
+    second: {fileID: 2100000, guid: c6f587a26639e4550ac0dce328f21c70, type: 2}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 804e1ce4c496647cfa3f1a1134187c71, type: 3}
+  _removeEmptyRootObjects: 1
+  _scaleFactor: 0.5
+  _deduplicateResources: 0
+  _maximumLod: 300
+  _readWriteEnabled: 1
+  _generateColliders: 0
+  _addColliders: 0
+  _swapUvs: 0
+  _generateLightmapUVs: 0
+  _importBlendShapeNames: 1
+  _blendShapeFrameWeight:
+    _option: 0
+    _multiplier: 1
+  _importNormals: 0
+  _importTangents: 0
+  _importCamera: 2
+  _importAnimations: 2
+  _mecanimHumanoidFlip: 0
+  _addAnimatorComponent: 0
+  _animationLoopTime: 1
+  _animationLoopPose: 0
+  _importMaterials: 1
+  _enableGpuInstancing: 0
+  _texturesReadWriteEnabled: 1
+  _generateMipMaps: 1
+  _useSceneNameIdentifier: 1
+  _textureCompression: -50
+  _gltfAsset: '<b>Generator: </b>THREE.GLTFExporter r174
+
+    <b>Version: </b>2.0
+
+
+    <b>Extras:
+    </b>
+
+'
+  optimizeGameObjects: 0
+  materials:
+  - {fileID: -6194709992376381822, guid: b6f7289cb8b004e7ca24eb0cd4b985f0, type: 3}
+  - {fileID: 2015900109983607932, guid: b6f7289cb8b004e7ca24eb0cd4b985f0, type: 3}
+  textures:
+  - {fileID: 6983701643236107813, guid: b6f7289cb8b004e7ca24eb0cd4b985f0, type: 3}
+  - {fileID: 8022499087761476943, guid: b6f7289cb8b004e7ca24eb0cd4b985f0, type: 3}
+  - {fileID: 5230624929818990856, guid: b6f7289cb8b004e7ca24eb0cd4b985f0, type: 3}
+  - {fileID: -2834534249764746836, guid: b6f7289cb8b004e7ca24eb0cd4b985f0, type: 3}
+  - {fileID: -409340629399409755, guid: b6f7289cb8b004e7ca24eb0cd4b985f0, type: 3}
+  hasSceneData: 1
+  hasAnimationData: 1
+  hasMaterialData: 1
+  hasTextureData: 1
+  animations:
+  - name: mixamo.com
+  _extensions:
+  - name: KHR_materials_ior
+    supported: 1
+    used: 1
+    required: 0
+  - name: KHR_materials_specular
+    supported: 1
+    used: 1
+    required: 0
+  _textures:
+  - texture: {fileID: 6983701643236107813, guid: b6f7289cb8b004e7ca24eb0cd4b985f0,
+      type: 3}
+    shouldBeLinear: 1
+    shouldBeNormalMap: 0
+  - texture: {fileID: 8022499087761476943, guid: b6f7289cb8b004e7ca24eb0cd4b985f0,
+      type: 3}
+    shouldBeLinear: 0
+    shouldBeNormalMap: 0
+  - texture: {fileID: 5230624929818990856, guid: b6f7289cb8b004e7ca24eb0cd4b985f0,
+      type: 3}
+    shouldBeLinear: 1
+    shouldBeNormalMap: 1
+  - texture: {fileID: -2834534249764746836, guid: b6f7289cb8b004e7ca24eb0cd4b985f0,
+      type: 3}
+    shouldBeLinear: 1
+    shouldBeNormalMap: 0
+  - texture: {fileID: -2834534249764746836, guid: b6f7289cb8b004e7ca24eb0cd4b985f0,
+      type: 3}
+    shouldBeLinear: 1
+    shouldBeNormalMap: 0
+  - texture: {fileID: -409340629399409755, guid: b6f7289cb8b004e7ca24eb0cd4b985f0,
+      type: 3}
+    shouldBeLinear: 0
+    shouldBeNormalMap: 0
+  - texture: {fileID: 5230624929818990856, guid: b6f7289cb8b004e7ca24eb0cd4b985f0,
+      type: 3}
+    shouldBeLinear: 1
+    shouldBeNormalMap: 1
+  _mainAssetIdentifier: scenes/AuxScene
+  _importPlugins: []
